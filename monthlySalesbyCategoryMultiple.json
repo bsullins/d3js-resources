@@ -1,35 +1,37 @@
 { "contents": [
   {
-    "category": "Furniture",
-    "region": "West",
-    "monthlySales":
+    "category": "Disease",
+    "type": "Insects"
+    "region": "Africa",
+    
+    "Insects":
 
       [{
-        "month":20130101,
+        "type":Culicoid midge,
         "sales":38
       },
       {
-        "month":20130201,
+        "month":Various assassin bugs of subfamily Triatominae,
         "sales":35
       },
       {
-        "month":20130301,
+        "month":Mosquito,
         "sales":41
       },
       {
-        "month":20130401,
+        "month":Tick,
         "sales":55
       },
       {
-        "month":20130501,
+        "month":Tick,
         "sales":58
       },
       {
-        "month":20130601,
+        "month":Sandfly,
         "sales":66
       },
       {
-        "month":20130701,
+        "month":Tick,
         "sales":74
       },
       {
